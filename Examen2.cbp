@@ -34,8 +34,6 @@
 		</Compiler>
 		<Unit filename="Evaluador.cpp" />
 		<Unit filename="Evaluador.h" />
-		<Unit filename="Libro.cpp" />
-		<Unit filename="Libro.h" />
 		<Unit filename="NodoBinario.cpp" />
 		<Unit filename="NodoBinario.h" />
 		<Unit filename="Planeta.cpp" />
